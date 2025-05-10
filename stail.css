@@ -62,6 +62,7 @@ body{
 .question1picture{
       width: 240px;
     height: 200px;
+    margin-top:60px ;/*відстань добавлено для кращого вигляду картинки*/
 }
 p{
       display:block;
@@ -69,4 +70,7 @@ p{
     border:inset 4px rgb(26, 29, 114) ;
 }
 section{
-  margin:250px ;  }/*відстань добавлено для кращого вигляду картинки
+  margin:250px ;  }/*відстань добавлено для кращого вигляду картинки*/
+.question2picture{
+     margin-top:35px ;/*відстань добавлено для кращого вигляду картинки*/
+}
